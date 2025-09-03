@@ -1,22 +1,25 @@
-<b><u>Blinkit Sales Analysis Dashboard</u></b>
+<b>Blinkit Sales Analysis Dashboard</b>
 <br>
 This repository contains a comprehensive Power BI dashboard for the analysis of sales data from the online grocery platform, Blinkit. The project's goal was to transform raw data into actionable insights, providing a powerful business intelligence tool for data-driven decision-making.
 <br>
+<br>
 <b>Technical Skills Demonstrated</b>
-<u>ETL</u>: Power Query Editor
+<br>
+ETL: Power Query Editor
 
-<u>Data Modeling</u>: Star Schema design in Power BI
+Data Modeling: Star Schema design in Power BI
 
-<u>Calculations</u>: DAX (Data Analysis Expressions)
+Calculations: DAX (Data Analysis Expressions)
 
-<u>Visualization</u>: Interactive charts and slicers
+Visualization: Interactive charts and slicers
 <br>
 <br>
 <b>Repository Contents</b>
 <br>
-<u>BlinkIt Sales Dashboard pbix file</u>: The Power BI project file.
+BlinkIt Sales Dashboard pbix file: The Power BI project file.
 
-<u>BlinkIT Groceryc Sales Data</u>: The raw dataset used for this analysis.
+BlinkIT Groceryc Sales Data: The raw dataset used for this analysis.
 
 
-<u>assets(screenshots)</u>: A folder containing high-resolution images of the dashboard.
+assets(screenshots): A folder containing high-resolution images of the dashboard.
+
