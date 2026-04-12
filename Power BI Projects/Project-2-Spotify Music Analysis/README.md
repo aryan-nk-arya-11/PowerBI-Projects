@@ -1,4 +1,4 @@
-<b>Spotify Music Analysis Dashboard</b> [See the Interactive Dashboard](https://lnkd.in/dscrftqZ)
+<h4><b>🔴Spotify Music Analysis Dashboard</b> [See the Interactive Dashboard](https://lnkd.in/dscrftqZ)</h4>
 <br>
 This repository contains an interactive Power BI dashboard for the analysis of Spotify music data. The project's goal was to transform raw streaming data into meaningful insights, providing a powerful business intelligence tool to explore music trends, listener behavior, and the characteristics of top-charting songs over time.
 <br>
