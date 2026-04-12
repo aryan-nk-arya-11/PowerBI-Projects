@@ -1,4 +1,4 @@
-<b>Blinkit Sales Analysis Dashboard</b> [See the Interactive Dashboard](https://lnkd.in/dmd8kU7U)
+<h4><b>🔴Blinkit Sales Analysis Dashboard</b> [See the Interactive Dashboard](https://lnkd.in/dmd8kU7U)</h4>
 <br>
 This repository contains a Power BI dashboard for analyzing sales data from the online grocery platform Blinkit. The goal was to transform raw data into actionable insights, providing a powerful business intelligence tool for data-driven decision-making. Incorporated cross-filtering and cross-highlighting features, enabling users to interactively drill down and access the most specific and accurate data hidden within the reports.
 <br>
