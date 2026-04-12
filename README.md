@@ -2,8 +2,8 @@ This repository showcases end-to-end data analytics and business intelligence pr
 <br> <br>
 <h5>🔴Live Interactive Dashboards Link :</h5>
 <br>
-[Blinkit Sales Analysis Dashboard](https://lnkd.in/dmd8kU7U)
-<br>
 [Spotify Music Analysis Dashboard](https://lnkd.in/dscrftqZ)
+<br>
+[Blinkit Sales Analysis Dashboard](https://lnkd.in/dmd8kU7U)
 <br><br>
 Author - ARYAN N K ARYA
